@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulrhman Galal</h1>
-<h3 align="center">Frontend developer from Egypt</h3>
+<h3 align="center">Software Engineer from Egypt</h3>
 
 - 👨‍💻 All of my projects are available at [https://agalal92.github.io/abdulrhman/](https://agalal92.github.io/abdulrhman/)
 
